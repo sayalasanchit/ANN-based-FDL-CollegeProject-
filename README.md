@@ -3,7 +3,7 @@
 - SimuLink simulation file: **"double_transmission.slx"**.
 - MATLAB script to generate training data from simulation: **"fault_data_generate.m"**.
 - Project members: 
-	* Sanchit Sayala
-	* Tushar Sharma
-	* Suraj Negi
-- Electrical Engineering Batch 2017-2021, GBPUAT, Pantagar.
+	* [Sanchit Sayala](https://github.com/sayalasanchit/)
+	* [Tushar Sharma](https://github.com/tusharsharma3199)
+	* [Suraj Negi](https://github.com/suraj111999/)
+- Electrical Engineering Batch 2017-2021, Govind Ballabh Pant University of Agriculture & Technology, Pantagar.
